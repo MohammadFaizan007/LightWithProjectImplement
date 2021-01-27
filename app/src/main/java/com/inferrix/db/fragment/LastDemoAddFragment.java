@@ -63,6 +63,7 @@ public class LastDemoAddFragment extends Fragment implements AdvertiseResultInte
     String uid_One = "", sensor_One = "";
 
     ArrayList<DeviceClass> deviceList;
+
     ArrayList<DeviceClass> ListTwo;
     ArrayAdapter<DeviceClass> adapterSite;
     int spinnerSiteSelectedPosition = 0;
