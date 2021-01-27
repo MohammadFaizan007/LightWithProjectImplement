@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pir"
+        android:title="Site"
+        />
+
+    <item
+        android:id="@+id/swict_btn"
+        android:title="Building"
+        />
+
+    <item
+        android:id="@+id/day_light"
+        android:title="Floor"
+        />
+    <item
+        android:id="@+id/room"
+        android:title="Room"
+        />
+<!--    <item-->
+<!--        android:id="@+id/zone"-->
+<!--        android:title="Zone"-->
+<!--        />-->
+    <item
+        android:id="@+id/group"
+        android:title="Group"
+        />
+
+
+</menu>
